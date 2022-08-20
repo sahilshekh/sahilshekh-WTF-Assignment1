@@ -1,0 +1,48 @@
+.img-wtf{
+    margin-left: 80px;
+    height: 30px;
+    width: 60px;
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    background-color:rgb(156,13,13);
+    color: whitesmoke;
+    position: fixed;
+}
+.nav-link{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(255,0,0);
+    text-indent: 0px;
+    color:rgba(245, 245, 245, 0.404);
+    margin-left: 440px;
+}
+.nav-link1{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(255,0,0);
+    text-indent: 0px;
+
+    margin-left: 20px;
+    color:rgba(245, 245, 245, 0.404);
+    padding-top: 10px;
+}
+.nav-item{
+    display: flex;
+}
+.btn{
+    margin-right: 50px;
+    background-color: rgb(156,13,13);
+    color: wheat;
+}
